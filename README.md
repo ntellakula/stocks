@@ -1,2 +1,2 @@
 # stocks
-Amateur classification and expolration of stocks data
+Amateur classification and exploration of stocks data
